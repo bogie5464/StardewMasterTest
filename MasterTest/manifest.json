@@ -1,0 +1,10 @@
+{
+  "Name": "MasterTest",
+  "Author": "bogie5464",
+  "Version": "0.0.1",
+  "Description": "Checks if master farmer through various ways",
+  "UniqueID": "bogie5464.MasterTest",
+  "EntryDll": "MasterTest.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": []
+}
